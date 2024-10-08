@@ -1,10 +1,7 @@
-## Hi there 👋
+<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Stefano, I'm a Developer Skilled in System Hosting & Software Deployment, with Expertise in Code Architecture and Project Management" src="./assets/gh-readme-header.png" /></a></p>
+# 
 
 <!--
-**Sh04Un/Sh04uN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
