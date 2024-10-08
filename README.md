@@ -1,4 +1,4 @@
-<p align="center"><a href="https://www.pentaframe.it"><text width="80%" alt="Hello, I'm Stefano, I'm a Developer Skilled in System Hosting & Software Deployment, with Expertise in Code Architecture and Project Management"/></a></p>
+<p align="center"><a href="https://www.pentaframe.it">Hello, I'm Stefano, I'm a Developer Skilled in System Hosting & Software Deployment, with Expertise in Code Architecture and Project Management</a></p>
 
 <!--
 - 🔭 I’m currently working on ...
